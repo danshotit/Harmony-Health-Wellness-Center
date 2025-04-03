@@ -229,22 +229,21 @@ const About = () => {
               <div className="aspect-w-3 aspect-h-4 relative">
                 <img 
                   src="https://images.unsplash.com/photo-1543269664-56d93c1b41a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" 
-                  alt="Dr. Emily Chen" 
+                  alt="Dr. Virginia W. Kamau, DNP, PMHNP-BC" 
                   className="w-full h-full object-cover transition-transform group-hover:scale-105 duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
                   <div className="p-4 text-white">
-                    <h3 className="text-xl font-medium">Dr. Emily Chen</h3>
-                    <p className="text-white/80">Geriatric Psychiatrist</p>
+                    <h3 className="text-xl font-medium">Dr. Virginia W. Kamau, DNP, PMHNP-BC</h3>
+                    <p className="text-white/80">Psychiatric Mental Health Nurse Practitioner</p>
                   </div>
                 </div>
               </div>
               <div className="p-6">
                 <p className="mb-4">
-                  Dr. Chen specializes in geriatric psychiatry, addressing the unique mental health needs of older adults, 
-                  including depression, anxiety, cognitive disorders, and age-related transitions.
+                  Dr. Kamau is currently board certified in Psychiatric Mental Health Nurse Practitioner (PMHNP) for over 3 years. Experience ranges from child and adult care in an outpatient clinic addressing mental health crisis stabilization and substance abuse treatment. 
                 </p>
-                <p className="text-harmony-green font-medium">Education: MD, Columbia University</p>
+                <p className="text-harmony-green font-medium">Education: Dr. Kamau received her Bachelor of Science in Nursing at Shenandoah University in Virginia </p>
               </div>
             </div>
             
@@ -267,7 +266,7 @@ const About = () => {
                 <p className="mb-4">
                 Dr. Maseray Bayoh is an accomplished Psychiatric Nurse Practitioner with extensive experience in psychiatric and geriatric care. Known for her exceptional clinical expertise, leadership, and dedication to patient-centered care, she has made significant contributions across various healthcare settings.
                 </p>
-                <p className="text-harmony-green font-medium">Dr. Bayoh earned her Doctor of Nursing Practice (DNP) from Walden University in 2024, building upon a strong academic foundation that includes a Master of Science in Nursing from the same institution and a Bachelor of Science in Nursing from Chamberlain University. Her nursing journey began with an Associate Degree in Nursing from Howard Community College.</p>
+                <p className="text-harmony-green font-medium"> Education: Dr. Bayoh earned her Doctor of Nursing Practice (DNP) from Walden University in 2024, building upon a strong academic foundation that includes a Master of Science in Nursing from the same institution and a Bachelor of Science in Nursing from Chamberlain University. Her nursing journey began with an Associate Degree in Nursing from Howard Community College.</p>
               </div>
             </div>
           </div>
