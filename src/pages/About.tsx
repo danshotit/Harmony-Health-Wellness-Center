@@ -128,7 +128,7 @@ const About = () => {
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {/* Team Member 1 */}
+            {/* Team Member 1 
             <div className="bg-white rounded-lg shadow-md overflow-hidden group">
               <div className="aspect-w-3 aspect-h-4 relative">
                 <img 
@@ -152,7 +152,7 @@ const About = () => {
               </div>
             </div>
             
-            {/* Team Member 2 */}
+             Team Member 2 
             <div className="bg-white rounded-lg shadow-md overflow-hidden group">
               <div className="aspect-w-3 aspect-h-4 relative">
                 <img 
@@ -176,7 +176,7 @@ const About = () => {
               </div>
             </div>
             
-            {/* Team Member 3 */}
+             Team Member 3 
             <div className="bg-white rounded-lg shadow-md overflow-hidden group">
               <div className="aspect-w-3 aspect-h-4 relative">
                 <img 
@@ -200,7 +200,7 @@ const About = () => {
               </div>
             </div>
             
-            {/* Team Member 4 */}
+             Team Member 4 
             <div className="bg-white rounded-lg shadow-md overflow-hidden group">
               <div className="aspect-w-3 aspect-h-4 relative">
                 <img 
@@ -222,7 +222,7 @@ const About = () => {
                 </p>
                 <p className="text-harmony-green font-medium">Education: MD, Yale School of Medicine</p>
               </div>
-            </div>
+            </div>*/}
             
             {/* Team Member 5 */}
             <div className="bg-white rounded-lg shadow-md overflow-hidden group">
