@@ -304,7 +304,7 @@ const About = () => {
               </div>
               <p className="mb-4 text-gray-600 italic">
                 "After years of struggling to find the right help for my son, we found Harmony Health. 
-                Dr. Davis and his team provided understanding, patience, and effective treatment that 
+                Dr. Kamau and her amazing team provided understanding, patience, and effective treatment that 
                 has made a world of difference."
               </p>
               <p className="font-medium">— Michael R.</p>
